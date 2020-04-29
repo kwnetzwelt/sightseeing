@@ -9,8 +9,8 @@ The app creates a window containing a QTCaptureView that displays the video stre
 
 Built on a PowerBook G4 15" 1,67Ghz running OSX 10.5.8
 
-# Download git here: https://sourceforge.net/projects/osxpowerpcpackages/files/Git/
-# Clone this repository
-# Install XCode 3 Tools from your OS Install Disk. 
-# Open SightSeeing.xcodeproj and build
+1. Download git here: https://sourceforge.net/projects/osxpowerpcpackages/files/Git/
+1. Clone this repository
+1. Install XCode 3 Tools from your OS Install Disk. 
+1. Open SightSeeing.xcodeproj and build
 

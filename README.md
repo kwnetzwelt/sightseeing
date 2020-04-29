@@ -5,6 +5,9 @@ A Cocoa Application for Mac OSX 10.5 created with XCode 3
 
 The app creates a window containing a QTCaptureView that displays the video stream incoming from a connected video-capturing device such as an Apple iSight (Firewire)
 
+![screenshot](screenshot.jpg "Screenshot")
+
+
 # Building
 
 Built on a PowerBook G4 15" 1,67Ghz running OSX 10.5.8

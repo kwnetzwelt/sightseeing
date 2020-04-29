@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SightSeeing' target in the 'SightSeeing' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	1F4ABBC4245A1C6E00B1E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FEC4E8124596AD6008C4992 /* SightSeeingController.m */;
+		name = "SightSeeingController.m: 78";
+		rLen = 0;
+		rLoc = 2330;
+		rType = 0;
+		vrLen = 987;
+		vrLoc = 148;
+	};
+	1FBD099A24598BAE00D9DBAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FEC4E8124596AD6008C4992 /* SightSeeingController.m */;
+		name = "SightSeeingController.m: 78";
+		rLen = 0;
+		rLoc = 2330;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 151;
+	};
+	1FEC4E7324596A23008C4992 /* SightSeeing */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SightSeeing;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	1FEC4E7B24596A43008C4992 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1FEC4E7C24596A43008C4992 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1FEC4E8024596AD6008C4992 /* SightSeeingController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{420, 0}";
+			sepNavVisRange = "{0, 426}";
+			sepNavWindowFrame = "{{15, 375}, {750, 558}}";
+		};
+	};
+	1FEC4E8124596AD6008C4992 /* SightSeeingController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {864, 1134}}";
+			sepNavSelRange = "{2330, 0}";
+			sepNavVisRange = "{148, 987}";
+			sepNavWindowFrame = "{{206, 131}, {923, 586}}";
+		};
+	};
+	1FEC4E9A24597A0B008C4992 /* SightSeeingController.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1FEC4E8124596AD6008C4992 /* SightSeeingController.m */;
+		functionName = "-awakeFromNib";
+		hitCount = 3;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = SightSeeing;
+		modificationTime = 609844227.0379412;
+		state = 2;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 1FEC4E7324596A23008C4992 /* SightSeeing */;
+		activeTarget = 8D1107260486CEB800E47090 /* SightSeeing */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SightSeeing */,
+		);
+		breakpoints = (
+			1FEC4E9A24597A0B008C4992 /* SightSeeingController.m:20 */,
+		);
+		codeSenseManager = 1FEC4E7C24596A43008C4992 /* Code sense */;
+		executables = (
+			1FEC4E7324596A23008C4992 /* SightSeeing */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					130.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 609884587;
+			PBXWorkspaceStateSaveDate = 609884587;
+		};
+		perUserProjectItems = {
+			1F4ABBC4245A1C6E00B1E846 /* PBXTextBookmark */ = 1F4ABBC4245A1C6E00B1E846 /* PBXTextBookmark */;
+			1FBD099A24598BAE00D9DBAE /* PBXTextBookmark */ = 1FBD099A24598BAE00D9DBAE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1FEC4E7B24596A43008C4992 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SightSeeing */ = {
+		activeExec = 0;
+		executables = (
+			1FEC4E7324596A23008C4992 /* SightSeeing */,
+		);
+	};
+}
